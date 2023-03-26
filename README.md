@@ -1,15 +1,14 @@
-- 👋 Hi, I’m @Juanchumu 
+- 👋 Hi, I’m @Juanchumu, a guy named "Juan"
 
 - 👀 I’m interested in everything that has to do with biological sciences. 
 
 - 🌱 I’m currently learningat the National University of Lujan (Argentina),
-     Due to the pandemic I began to learn code, among them are:
-     JavaScrip and Python, possibly I get into R. 
+     Having fun with: JavaScrip, Python and R. 
 
 - 💞️ I’m looking to collaborate on in what I can 
 
 - 📫 How to reach me: 
-      Email: ricard9045@gmail.com
+      Email: ####ricard9'''''''045@gma'''''il.com######  (never mind, spaaaaaam)
       Telegram: soon
 
 <!---
