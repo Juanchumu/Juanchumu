@@ -3,7 +3,8 @@
 - 👀 I’m interested in everything that has to do with biological sciences. 
 
 - 🌱 I’m currently learningat the National University of Lujan (Argentina),
-     Having fun with: JavaScrip, Python and R. 
+     Having fun with: JavaScrip, Python and R.
+     double-fun: Arduino
 
 - 💞️ I’m looking to collaborate on in what I can 
 
