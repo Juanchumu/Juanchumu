@@ -1,16 +1,16 @@
-- 👋 Hi, I’m @Juanchumu, a guy named "Juan"
+🧠 Biologist passionate about data, code, and automation.
+🎓 Currently pursuing a [*Licenciatura en Ciencias Biologicas*](https://www.unlu.edu.ar/carg-biologia.html) and [*Analista Universitario en Ciencias de Datos*](https://www.unlu.edu.ar/carpre-analistaciedatos.html) at the National University of Luján (Argentina).
+🧪 I love solving problems by combining science, programming, and common sense.
+🛠️ I work with R, Python, and C, and leverage GIS tools. I also build with Angular, Arduino, and machine learning models, among other things.
+🐜 Exploring the world… sometimes microscopic, sometimes digital.
+🌍 Contributor to [OpenStreetMap](https://www.openstreetmap.org/user/kanpaidaisuki) — mapping the world, one edit at a time.
 
-- 👀 I’m interested in everything that has to do with biological sciences. 
+[![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-contributor-brightgreen)](https://www.openstreetmap.org)
 
-- 🌱 I’m currently learningat the National University of Lujan (Argentina),
-     Having fun with: JavaScrip, Python and R.
-     double-fun: Arduino
 
-- 💞️ I’m looking to collaborate on in what I can 
 
-- 📫 How to reach me: 
-      Email: ####ricard9'''''''045@gma'''''il.com######  (never mind, spaaaaaam)
-      Telegram: soon
+
+
 
 <!---
 Juanchumu/Juanchumu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
